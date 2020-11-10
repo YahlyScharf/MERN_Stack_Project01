@@ -1,3 +1,6 @@
+This is a MERN (MongoDB, Express.js, React.js, Node.js) project i built.
+It's an app that tracks your exercises.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
